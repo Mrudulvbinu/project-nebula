@@ -16,7 +16,7 @@
 </div>
 
 <div class="skills">
-<h2>SKILLS</h2>
+<h2>SET OF SKILLS</h2>
 <ul>
 <li><b>Programming Languages :</b>
 Python
